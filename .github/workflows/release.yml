@@ -23,12 +23,10 @@ jobs:
         with:
           go-version: stable
 
-      - name: Install GoReleaser
+      - name: Run GoReleaser
         uses: goreleaser/goreleaser-action@v6
         with:
           version: "~> v2"
           args: release --clean
-      - name: Run GoReleaser
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: goreleaser release --clean

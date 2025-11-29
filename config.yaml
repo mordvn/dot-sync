@@ -1,0 +1,19 @@
+dotfiles_dir: dotfiles
+git_repo: https://github.com/mordvn/dotfiles.git
+
+paths:
+  - source: ~/Library/Application Support/com.mitchellh.ghostty/config
+    type: file
+    name: ghostty
+
+  - source: ~/.zshrc
+    type: file
+    name: zsh
+
+  - source: ~/.tmux.conf
+    type: file
+    name: tmux
+
+  - source: ~/.config/nvim
+    type: directory
+    name: nvim

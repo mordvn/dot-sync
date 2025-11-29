@@ -2,7 +2,7 @@
 
 Keeps your configs in sync
 
-![logo](media/logo.png)
+![demo](media/demo.png)
 
 ## Features
 

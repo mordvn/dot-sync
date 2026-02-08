@@ -76,5 +76,3 @@ func GetStatusIcon(status string) string {
 		return "○"
 	}
 }
-
-// TODO: enum

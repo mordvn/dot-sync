@@ -3,7 +3,7 @@
 Keeps your configs in sync
 
 <div align="center">
-<img src="media/demo.png" alt="Demo image" width="450">
+<img src="media/demo.png" alt="Demo image" width="600">
 </div>
 
 ## Features

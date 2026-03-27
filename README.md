@@ -2,7 +2,9 @@
 
 Keeps your configs in sync
 
-![demo](media/demo.png)
+<div align="center">
+<img src="media/demo.png" alt="Demo image" width="450">
+</div>
 
 ## Features
 

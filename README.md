@@ -1,4 +1,4 @@
-# gotfiles-sync
+# dotfiles-sync
 
 Keeps your configs in sync
 

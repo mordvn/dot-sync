@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   goreleaser:
-    runs-on: runs-on: macos-latest
+    runs-on: macos-latest
 
     steps:
       - name: Checkout
